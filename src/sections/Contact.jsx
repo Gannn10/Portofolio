@@ -13,9 +13,9 @@ const Contact = () => {
             Saya terbuka untuk kolaborasi dan peluang baru.
           </p>
           <ul>
-            <li>Email: <a href="mailto:ganiramadhani481@gmail.com">ganiramadhani481@gmail.com</a></li>
-            <li>Phone: <a href="tel:08225987635">082225987635</a></li>
-            <li>Location: Pemalang, Indonesia</li>
+            <li>Email: <a href="mailto:ganiramadahni@gmail.com">ganiramadahni@gmail.com</a></li>
+            <li>Phone: <a href="tel:0882003968588">0882003968588</a></li>
+            <li>Location: Semarang, Indonesia</li>
           </ul>
           <div className="social-links">
             <a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a>
