@@ -1,49 +1,25 @@
-Welcome to my personal portfolio website! This project showcases my skills, projects, and contact information. It's built with modern web technologies to be fast, responsive, and visually appealing.
+# Welcome to my personal portfolio website! This project showcases my skills, projects, and contact information. It's built with modern web technologies to be fast, responsive, and visually appealing.
 
-Key Features
+# Key Features
 Responsive Design: The layout adjusts to fit any screen size, from desktops to mobile devices.
-
 Interactive UI: Includes dynamic elements like a particle background and a typing effect for a more engaging user experience.
-
 Project Showcase: A dedicated section to display my projects with clear descriptions.
-
 Skills Overview: Highlights my core competencies in both frontend and backend development.
-
 Contact Form: Provides an easy way for potential employers or collaborators to get in touch.
-
 Smooth Navigation: Uses smooth scrolling to navigate between sections.
 
-Technologies Used
+# Technologies Used
 This project is built using the following technologies:
-
 React 19: A JavaScript library for building user interfaces.
-
 Vite: A build tool that provides a fast development environment.
-
 Font Awesome: For scalable vector icons.
-
 CSS: For styling, including responsive layouts and animations.
 
-Project Structure
-src/App.jsx: The main component that assembles all sections and handles global logic like smooth scrolling and animations.
-
-src/sections/: Contains the main sections of the website (Hero.jsx, About.jsx, Projects.jsx, Contact.jsx).
-
-src/components/: Reusable components used throughout the sections, such as SkillCard.jsx, ProjectCard.jsx, and ParticlesBackground.jsx.
-
-src/style.css: The primary stylesheet for the entire application, defining the look and feel.
-
-src/index.css: Global base styles and variable definitions.
-
-public/: Static assets like images and a favicon.
-
-How to Run Locally
+# How to Run Locally
 To get a local copy up and running, follow these simple steps.
 
 Prerequisites:
-
 Node.js (LTS version recommended)
-
 npm or Yarn
 
 Installation:
